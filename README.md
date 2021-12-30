@@ -25,7 +25,17 @@ The platform I use:
 ![KristianLyudmilovGeorgiev github stats](https://github-readme-stats.vercel.app/api?username=KristianLyudmilovGeorgiev&show_icons=true&theme=tokyonight)
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristianLyudmilovGeorgiev)](https://github.com/KristianLyudmilovGeorgiev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristianLyudmilovGeorgiev&theme=cobalt)](https://github.com/KristianLyudmilovGeorgiev/github-readme-stats)
+
 
 <h2> Everything was</h2>
 <img src="https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg">
+
+<a href="https://github.com/KristianLyudmilovGeorgiev/github-readme-stats">
+    <img align="center" width="55%" 
+    height="55%" src="https://github-readme-stats.vercel.app/api?username=KristianLyudmilovGeorgiev&show_icons=true&theme=tokyonight">
+</a>
+<a href="https://github.com/KristianLyudmilovGeorgiev/github-readme-stats">
+    <img aling="center" width="55%"
+    hight="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristianLyudmilovGeorgiev&theme=cobalt)](https://github.com/KristianLyudmilovGeorgiev/github-readme-stats">
+</a>
