@@ -7,7 +7,7 @@ How to reach me:
 
  [![Mail Badge](https://img.shields.io/badge/-Kristian1-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:personalprogramminggitmail1@gmail.com)
 
-- 💻 I’m currently working at console apps
+- 💻 I’m currently working on console apps
 - 🎵 Fun fact: I love to listen to music.
 
 <h2>Technologies I know </h2>
