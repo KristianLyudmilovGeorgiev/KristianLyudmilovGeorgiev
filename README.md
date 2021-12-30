@@ -13,7 +13,7 @@ How to reach me:
 <h2>Technologies I know </h2>
 
 <!-- TODO: Make technologies links takes you to repositories -->
-<img width="115px" height="50px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img width="95px" height="40px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <h2>Facts about me</h2>
 In my free time I like to play <img width="20px"src="https://img-new.cgtrader.com/items/2042590/c9ce1e9115/minecraft-grass-block-3d-model-obj-mtl-blend.jpg">
 The platform I use: 
