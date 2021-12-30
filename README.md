@@ -14,7 +14,18 @@ How to reach me:
 
 <!-- TODO: Make technologies links takes you to repositories -->
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<h2>Facts about me</h2>
+In my free time I like to play Minecraft. 
+The platform I use: 
+<br>
+<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
 <br />
 <h2> My Github Stats </h2>
 
-![KristianLyudmilovGeorgiev github stats](https://github-readme-stats.vercel.app/api?username=KristianLyudmilovGeorgiev&count_private=true&theme=tokyonight&hide=contribs,prs)
+![KristianLyudmilovGeorgiev github stats](https://github-readme-stats.vercel.app/api?username=KristianLyudmilovGeorgiev&show_icons=true&theme=tokyonight)
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristianLyudmilovGeorgiev)](https://github.com/KristianLyudmilovGeorgiev/github-readme-stats)
+
+<h2> Everything was</h2>
+<img src="https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg">
