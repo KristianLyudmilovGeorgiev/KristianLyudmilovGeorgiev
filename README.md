@@ -15,27 +15,24 @@ How to reach me:
 <!-- TODO: Make technologies links takes you to repositories -->
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <h2>Facts about me</h2>
-In my free time I like to play Minecraft. 
+In my free time I like to play <img width="20px"src="https://img-new.cgtrader.com/items/2042590/c9ce1e9115/minecraft-grass-block-3d-model-obj-mtl-blend.jpg">
 The platform I use: 
 <br>
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
 <br />
 <h2> My Github Stats </h2>
-
-![KristianLyudmilovGeorgiev github stats](https://github-readme-stats.vercel.app/api?username=KristianLyudmilovGeorgiev&show_icons=true&theme=tokyonight)
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristianLyudmilovGeorgiev&theme=cobalt)](https://github.com/KristianLyudmilovGeorgiev/github-readme-stats)
-
+<a href="https://github.com/KristianLyudmilovGeorgiev/github-readme-stats">
+    <img align="center" width="75%" 
+    height="55%" src="https://github-readme-stats.vercel.app/api?username=KristianLyudmilovGeorgiev&show_icons=true&theme=tokyonight">
+</a>
+<a href="https://github.com/KristianLyudmilovGeorgiev/github-readme-stats">
+    <img aling="center"
+    width=75% 
+    height="55%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristianLyudmilovGeorgiev&theme=cobalt">
+</a>
 
 <h2> Everything was</h2>
 <img src="https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg">
 
-<a href="https://github.com/KristianLyudmilovGeorgiev/github-readme-stats">
-    <img align="center" width="55%" 
-    height="55%" src="https://github-readme-stats.vercel.app/api?username=KristianLyudmilovGeorgiev&show_icons=true&theme=tokyonight">
-</a>
-<a href="https://github.com/KristianLyudmilovGeorgiev/github-readme-stats">
-    <img aling="center" width="55%"
-    hight="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristianLyudmilovGeorgiev&theme=cobalt)](https://github.com/KristianLyudmilovGeorgiev/github-readme-stats">
-</a>
+
