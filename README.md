@@ -1,6 +1,6 @@
 # Hi, my name is Kristian 👋  
 
-I am Christian. I learn Application Development with <b>C#</b>.
+I am Kristian. I learn Application Development with <b>C#</b>.
 I think I will start with Web development in the near future.
 
 How to reach me:
