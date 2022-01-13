@@ -1,19 +1,19 @@
 # Hi, my name is Kristian 👋  
 
-I am Christian. I learn Application Development with <b>C#</b>.
+I am Kristian. I learn Application Development with <b>C#</b>.
 I think I will start with Web development in the near future.
 
 How to reach me:
 
  [![Mail Badge](https://img.shields.io/badge/-Kristian1-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:personalprogramminggitmail1@gmail.com)
 
-- 💻 I’m currently working at console apps
+- 💻 I’m currently working on console apps
 - 🎵 Fun fact: I love to listen to music.
 
 <h2>Technologies I know </h2>
 
 <!-- TODO: Make technologies links takes you to repositories -->
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img width="95px" height="40px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <h2>Facts about me</h2>
 I go to Robotics after classes. I also have some experience with the Arduino IDE.
 <b>Free time activity(sometimes)</b><img width="20px"src="https://img-new.cgtrader.com/items/2042590/c9ce1e9115/minecraft-grass-block-3d-model-obj-mtl-blend.jpg">
