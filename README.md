@@ -15,7 +15,8 @@ How to reach me:
 <!-- TODO: Make technologies links takes you to repositories -->
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <h2>Facts about me</h2>
-In my free time I like to play <img width="20px"src="https://img-new.cgtrader.com/items/2042590/c9ce1e9115/minecraft-grass-block-3d-model-obj-mtl-blend.jpg">
+I go to Robotics after classes. I also have some experience with the Arduino IDE.
+<b>Free time activity(sometimes)</b><img width="20px"src="https://img-new.cgtrader.com/items/2042590/c9ce1e9115/minecraft-grass-block-3d-model-obj-mtl-blend.jpg">
 The platform I use: 
 <br>
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
@@ -34,5 +35,4 @@ The platform I use:
 
 <h2> Everything was</h2>
 <img src="https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg">
-
 
