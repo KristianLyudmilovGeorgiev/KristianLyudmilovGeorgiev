@@ -1,86 +1,15 @@
-# Hi, my name is Kristian 👋  
+<h1 align="center">Hi 👋, My name is Kristian Georgiev</h1>
+<h3 align="center">I am an Application Development student who likes to learn new things</h3>
 
-I am Kristian. I learn Application Development with <b>C#</b> and <b>other languages</b>.
-I think I will start with Web development in the near future.
+- 🔭 I’m currently working on **school web project**
 
-How to reach me:
+- 📫 How to reach me: **programminggitmail1@gmail.com**
 
- [![Mail Badge](https://img.shields.io/badge/-Kristian1-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:personalprogramminggitmail1@gmail.com)
+- ⚡ Fun fact: **I love rhythm games and books**
 
-- 💻 I’m currently working on a school project until the end of this school year.
-- 🎵 Fun fact: I love to listen to music.
-- 🎵 Rhythm games fan
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<head>
- <style>
- 
-  .badge {
-	margin: 1.5em 3em;
-	width: 6.4em;
-	height: 6.4em;
-	border-radius: 20%;
-	display: inline-block;
-	top: 0;
-	transition: all 0.2s ease;
-  box-shadow: 8px 10px 12px 3px rgba(0, 0, 0, 0.43);
-}
-
-.rounded {
-  width: 70px;
-	height: 70px;
-  background: white;
-  position: absolute;
-  margin: 15px 16px auto;
-  z-index: 10;
-	border-radius: 30%;
-  box-shadow: 8px 8px 8px 2px rgba(0, 0, 0, 0.23);
-  
-  i.fab {
-    font-size: 2.6em;
-		margin-top: 16px;
-  }
-  
-  .orange {
-  background: darkorange;
-  color: orange;
-}
-
-.blue {
-    background: dodgerblue;
-    color: deepskyblue;
-}
-
-  .purple {
-  background: mediumpurple;
-  color: slategray;
-
- </style>
-</head>
-
-<h2>Technologies I know </h2>
-
-<!-- TODO: Make technologies links takes you to repositories -->
-<main class="wrapper">
- <article class="badge orange">
-     <div class="rounded"><i class="fab fa-html5"></i></div>
- </article>
- 
- <article class="badge blue">
-    <div class="rounded"><i class="fab fa-css3-alt"></i></div>
-  </article>
-  
-   <article class="badge purple">
-    <div class="rounded"><i class="fab fa-php"></i></div>
-  </article>
-  
-
-}
-</main>
-
-<h2>Facts about me</h2>
-I go to the Arduino roborics club and sometimes we do projects.  
-Sometimes in my free time I play games, read books and I like to learn new things!
-
-<h2> Everything was</h2>
-<img src="https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg">
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
